@@ -1,0 +1,7 @@
+Create a new branch through github website
+  - Make sure you are in the right repository
+  - click the left hand side menu (branch: [branch name])
+  - type branch name
+  - hit creat branch box
+  
+Create branch through command line git
